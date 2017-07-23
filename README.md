@@ -1,4 +1,4 @@
-# Cucumber, Capybara básico
+# Cucumber, Capybara e Siteprism básico
 
 ## Estrutura inicial para começar a brincar com o framework
 
