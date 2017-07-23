@@ -1,0 +1,3 @@
+default: -t @regressao
+
+regressao: -t @regressao -f html -o html_report.html
